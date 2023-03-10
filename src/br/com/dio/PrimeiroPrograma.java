@@ -8,7 +8,7 @@ public class PrimeiroPrograma {
         Gato gato = new Gato();
         Gato gato2 = new Gato();
 
-        Livro livro = new Livro("O Problema dos três copos: ", 200);
+        Livro livro = new Livro("O Problema dos três copos:", 200);
         System.out.println(livro);
         System.out.println(gato);
         System.out.println(gato2);
